@@ -24,3 +24,7 @@ Educational platforms (quizzes, exams)
 Employee training assessments
 Online trivia games
 Personal web projects to learn web development
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/57968a69-91bb-4416-ba4e-b0d437eac850)
